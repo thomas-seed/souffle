@@ -1,0 +1,33 @@
+<map id="ram/SignedConstant.h" name="ram/SignedConstant.h">
+<area shape="rect" id="node2" href="$_ast_to_ram_translator_8cpp.html" title="ast2ram/AstToRamTranslator.cpp" alt="" coords="5,87,240,114"/>
+<area shape="rect" id="node3" href="$ram_2_visitor_8h.html" title="ram/Visitor.h" alt="" coords="2619,87,2725,114"/>
+<area shape="rect" id="node10" href="$ram__arithmetic__test_8cpp.html" title="tests/ram_arithmetic\l_test.cpp" alt="" coords="1035,333,1194,375"/>
+<area shape="rect" id="node11" href="$ram__relation__test_8cpp.html" title="tests/ram_relation\l_test.cpp" alt="" coords="2907,333,3048,375"/>
+<area shape="rect" id="node29" href="$ram__condition__equal__clone__test_8cpp.html" title="tests/ram_condition\l_equal_clone_test.cpp" alt="" coords="2749,80,2915,121"/>
+<area shape="rect" id="node30" href="$ram__expression__equal__clone__test_8cpp.html" title="tests/ram_expression\l_equal_clone_test.cpp" alt="" coords="2939,80,3106,121"/>
+<area shape="rect" id="node31" href="$ram__operation__equal__clone__test_8cpp.html" title="tests/ram_operation\l_equal_clone_test.cpp" alt="" coords="3130,80,3297,121"/>
+<area shape="rect" id="node32" href="$ram__statement__equal__clone__test_8cpp.html" title="tests/ram_statement\l_equal_clone_test.cpp" alt="" coords="3321,80,3487,121"/>
+<area shape="rect" id="node4" href="$_interpreter_engine_8cpp.html" title="interpreter/InterpreterEngine.cpp" alt="" coords="3967,341,4201,367"/>
+<area shape="rect" id="node5" href="$_interpreter_generator_8h.html" title="interpreter/InterpreterGenerator.h" alt="" coords="3987,177,4227,203"/>
+<area shape="rect" id="node7" href="$_interpreter_prog_interface_8h.html" title="interpreter/InterpreterProg\lInterface.h" alt="" coords="4226,333,4419,375"/>
+<area shape="rect" id="node12" href="$_complexity_8cpp.html" title="ram/analysis/Complexity.cpp" alt="" coords="4352,177,4563,203"/>
+<area shape="rect" id="node13" href="$_index_8cpp.html" title="ram/analysis/Index.cpp" alt="" coords="4587,177,4760,203"/>
+<area shape="rect" id="node14" href="$_level_8cpp.html" title="ram/analysis/Level.cpp" alt="" coords="4785,177,4957,203"/>
+<area shape="rect" id="node15" href="$_choice_conversion_8cpp.html" title="ram/transform/ChoiceConversion.cpp" alt="" coords="365,177,629,203"/>
+<area shape="rect" id="node16" href="$_collapse_filters_8cpp.html" title="ram/transform/CollapseFilters.cpp" alt="" coords="653,177,896,203"/>
+<area shape="rect" id="node17" href="$_eliminate_duplicates_8cpp.html" title="ram/transform/EliminateDuplicates.cpp" alt="" coords="921,177,1199,203"/>
+<area shape="rect" id="node18" href="$_expand_filter_8cpp.html" title="ram/transform/ExpandFilter.cpp" alt="" coords="1224,177,1451,203"/>
+<area shape="rect" id="node19" href="$_hoist_aggregate_8cpp.html" title="ram/transform/HoistAggregate.cpp" alt="" coords="1475,177,1723,203"/>
+<area shape="rect" id="node20" href="$_hoist_conditions_8cpp.html" title="ram/transform/HoistConditions.cpp" alt="" coords="1747,177,1997,203"/>
+<area shape="rect" id="node21" href="$_if_conversion_8cpp.html" title="ram/transform/IfConversion.cpp" alt="" coords="2021,177,2251,203"/>
+<area shape="rect" id="node22" href="$_indexed_inequality_8cpp.html" title="ram/transform/IndexedInequality.cpp" alt="" coords="2275,177,2538,203"/>
+<area shape="rect" id="node23" href="$_make_index_8cpp.html" title="ram/transform/MakeIndex.cpp" alt="" coords="2563,177,2781,203"/>
+<area shape="rect" id="node24" href="$_parallel_8cpp.html" title="ram/transform/Parallel.cpp" alt="" coords="2805,177,3000,203"/>
+<area shape="rect" id="node25" href="$_reorder_conditions_8cpp.html" title="ram/transform/ReorderConditions.cpp" alt="" coords="3024,177,3291,203"/>
+<area shape="rect" id="node26" href="$_reorder_filter_break_8cpp.html" title="ram/transform/ReorderFilter\lBreak.cpp" alt="" coords="3315,169,3517,211"/>
+<area shape="rect" id="node27" href="$_tuple_id_8cpp.html" title="ram/transform/TupleId.cpp" alt="" coords="3542,177,3735,203"/>
+<area shape="rect" id="node28" href="$_synthesiser_8cpp.html" title="synthesiser/Synthesiser.cpp" alt="" coords="3760,177,3963,203"/>
+<area shape="rect" id="node6" href="$_interpreter_engine_8h.html" title="interpreter/InterpreterEngine.h" alt="" coords="3826,259,4046,285"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title="main.cpp" alt="" coords="4007,430,4089,457"/>
+<area shape="rect" id="node9" href="$interpreter__relation__test_8cpp.html" title="tests/interpreter_relation\l_test.cpp" alt="" coords="4231,423,4415,464"/>
+</map>

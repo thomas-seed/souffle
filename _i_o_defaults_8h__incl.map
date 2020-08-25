@@ -1,0 +1,31 @@
+<map id="ast/transform/IODefaults.h" name="ast/transform/IODefaults.h">
+<area shape="rect" id="node2" href="$_global_8h.html" title="Global.h" alt="" coords="5297,461,5373,487"/>
+<area shape="rect" id="node7" href="$ast_2_i_o_8h.html" title="ast/IO.h" alt="" coords="2886,304,2957,331"/>
+<area shape="rect" id="node26" href="$ast_2_program_8h.html" title="ast/Program.h" alt="" coords="2446,155,2559,181"/>
+<area shape="rect" id="node39" href="$ast_2_translation_unit_8h.html" title="ast/TranslationUnit.h" alt="" coords="4405,80,4561,107"/>
+<area shape="rect" id="node46" href="$ast_2transform_2_transformer_8h.html" title="ast/transform/Transformer.h" alt="" coords="5272,80,5475,107"/>
+<area shape="rect" id="node47" href="$_string_util_8h.html" title="souffle/utility/StringUtil.h" alt="" coords="5525,379,5710,405"/>
+<area shape="rect" id="node8" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="3422,379,3514,405"/>
+<area shape="rect" id="node9" href="$_src_location_8h.html" title="parser/SrcLocation.h" alt="" coords="3419,461,3573,487"/>
+<area shape="rect" id="node14" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="2939,379,3093,405"/>
+<area shape="rect" id="node15" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="2997,461,3192,487"/>
+<area shape="rect" id="node21" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="1472,379,1648,405"/>
+<area shape="rect" id="node22" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="3891,461,3994,487"/>
+<area shape="rect" id="node27" href="$_clause_8h.html" title="ast/Clause.h" alt="" coords="1685,304,1787,331"/>
+<area shape="rect" id="node28" href="$ast_2_node_mapper_8h.html" title="ast/NodeMapper.h" alt="" coords="803,379,941,405"/>
+<area shape="rect" id="node29" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="1553,453,1727,495"/>
+<area shape="rect" id="node30" href="$_component_8h.html" title="ast/Component.h" alt="" coords="1624,229,1757,256"/>
+<area shape="rect" id="node31" href="$_component_init_8h.html" title="ast/ComponentInit.h" alt="" coords="1357,304,1512,331"/>
+<area shape="rect" id="node32" href="$ast_2_relation_8h.html" title="ast/Relation.h" alt="" coords="2449,304,2559,331"/>
+<area shape="rect" id="node33" href="$_type_8h.html" title="ast/Type.h" alt="" coords="3343,304,3431,331"/>
+<area shape="rect" id="node34" href="$_functor_declaration_8h.html" title="ast/FunctorDeclaration.h" alt="" coords="3087,304,3267,331"/>
+<area shape="rect" id="node37" href="$_pragma_8h.html" title="ast/Pragma.h" alt="" coords="3650,304,3758,331"/>
+<area shape="rect" id="node38" href="$ast_2_utils_8h.html" title="ast/Utils.h" alt="" coords="4424,461,4512,487"/>
+<area shape="rect" id="node35" href="$_ram_types_8h.html" title="souffle/RamTypes.h" alt="" coords="5499,461,5648,487"/>
+<area shape="rect" id="node40" href="$ast_2analysis_2_analysis_8h.html" title="ast/analysis/Analysis.h" alt="" coords="4341,304,4512,331"/>
+<area shape="rect" id="node41" href="$_precedence_graph_8h.html" title="ast/analysis/PrecedenceGraph.h" alt="" coords="4262,229,4493,256"/>
+<area shape="rect" id="node42" href="$_s_c_c_graph_8h.html" title="ast/analysis/SCCGraph.h" alt="" coords="4520,155,4701,181"/>
+<area shape="rect" id="node43" href="$_sum_type_branches_8h.html" title="ast/analysis/SumTypeBranches.h" alt="" coords="4211,155,4445,181"/>
+<area shape="rect" id="node44" href="$analysis_2_type_8h.html" title="ast/analysis/Type.h" alt="" coords="4669,229,4816,256"/>
+<area shape="rect" id="node45" href="$_debug_report_8h.html" title="reports/DebugReport.h" alt="" coords="2603,461,2771,487"/>
+</map>

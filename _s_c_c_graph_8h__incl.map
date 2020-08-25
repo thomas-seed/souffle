@@ -1,0 +1,18 @@
+<map id="ast/analysis/SCCGraph.h" name="ast/analysis/SCCGraph.h">
+<area shape="rect" id="node2" href="$_graph_utils_8h.html" title="GraphUtils.h" alt="" coords="1011,304,1113,331"/>
+<area shape="rect" id="node18" href="$ast_2_relation_8h.html" title="ast/Relation.h" alt="" coords="1947,155,2057,181"/>
+<area shape="rect" id="node39" href="$ast_2analysis_2_analysis_8h.html" title="ast/analysis/Analysis.h" alt="" coords="1693,386,1863,413"/>
+<area shape="rect" id="node40" href="$_i_o_type_8h.html" title="ast/analysis/IOType.h" alt="" coords="537,304,697,331"/>
+<area shape="rect" id="node41" href="$_precedence_graph_8h.html" title="ast/analysis/PrecedenceGraph.h" alt="" coords="1084,80,1315,107"/>
+<area shape="rect" id="node3" href="$_file_util_8h.html" title="souffle/utility/FileUtil.h" alt="" coords="165,386,335,413"/>
+<area shape="rect" id="node19" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="2511,229,2621,256"/>
+<area shape="rect" id="node27" href="$_attribute_8h.html" title="ast/Attribute.h" alt="" coords="1850,229,1965,256"/>
+<area shape="rect" id="node28" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="1355,304,1447,331"/>
+<area shape="rect" id="node29" href="$_src_location_8h.html" title="parser/SrcLocation.h" alt="" coords="1514,386,1669,413"/>
+<area shape="rect" id="node32" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="2090,304,2245,331"/>
+<area shape="rect" id="node33" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="2039,386,2234,413"/>
+<area shape="rect" id="node35" href="$ast_2_node_mapper_8h.html" title="ast/NodeMapper.h" alt="" coords="3426,304,3565,331"/>
+<area shape="rect" id="node36" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="2664,379,2839,420"/>
+<area shape="rect" id="node20" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="3034,304,3210,331"/>
+<area shape="rect" id="node21" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="3016,386,3119,413"/>
+</map>

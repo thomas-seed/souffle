@@ -1,0 +1,17 @@
+<map id="interpreter/InterpreterContext.h" name="interpreter/InterpreterContext.h">
+<area shape="rect" id="node2" href="$_interpreter_index_8h.html" title="interpreter/InterpreterIndex.h" alt="" coords="1237,304,1449,331"/>
+<area shape="rect" id="node8" href="$_ram_types_8h.html" title="souffle/RamTypes.h" alt="" coords="195,386,344,413"/>
+<area shape="rect" id="node25" href="$_interpreter_relation_8h.html" title="interpreter/InterpreterRelation.h" alt="" coords="728,80,957,107"/>
+<area shape="rect" id="node3" href="$_compiled_tuple_8h.html" title="souffle/CompiledTuple.h" alt="" coords="925,386,1104,413"/>
+<area shape="rect" id="node13" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="1643,379,1818,420"/>
+<area shape="rect" id="node26" href="$_index_8h.html" title="ram/analysis/Index.h" alt="" coords="1023,155,1182,181"/>
+<area shape="rect" id="node27" href="$_global_8h.html" title="Global.h" alt="" coords="774,386,850,413"/>
+<area shape="rect" id="node29" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="2403,229,2520,256"/>
+<area shape="rect" id="node31" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="1944,386,2120,413"/>
+<area shape="rect" id="node41" href="$ram_2analysis_2_analysis_8h.html" title="ram/analysis/Analysis.h" alt="" coords="769,468,946,495"/>
+<area shape="rect" id="node30" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="2315,304,2424,331"/>
+<area shape="rect" id="node37" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="2665,304,2764,331"/>
+<area shape="rect" id="node32" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1939,468,2042,495"/>
+<area shape="rect" id="node38" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="2803,386,3000,413"/>
+<area shape="rect" id="node39" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="2803,468,2949,495"/>
+</map>

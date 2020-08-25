@@ -1,0 +1,14 @@
+<map id="ast/BinaryConstraint.h" name="ast/BinaryConstraint.h">
+<area shape="rect" id="node2" href="$_argument_8h.html" title="ast/Argument.h" alt="" coords="295,87,417,114"/>
+<area shape="rect" id="node3" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="211,259,303,285"/>
+<area shape="rect" id="node4" href="$_src_location_8h.html" title="parser/SrcLocation.h" alt="" coords="44,333,199,360"/>
+<area shape="rect" id="node11" href="$ast_2_constraint_8h.html" title="ast/Constraint.h" alt="" coords="95,87,220,114"/>
+<area shape="rect" id="node13" href="$ast_2_node_mapper_8h.html" title="ast/NodeMapper.h" alt="" coords="933,87,1072,114"/>
+<area shape="rect" id="node14" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="683,169,858,211"/>
+<area shape="rect" id="node23" href="$_binary_constraint_ops_8h.html" title="souffle/BinaryConstraint\lOps.h" alt="" coords="1735,80,1913,121"/>
+<area shape="rect" id="node30" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="1315,177,1491,203"/>
+<area shape="rect" id="node12" href="$_literal_8h.html" title="ast/Literal.h" alt="" coords="115,177,213,203"/>
+<area shape="rect" id="node24" href="$_ram_types_8h.html" title="souffle/RamTypes.h" alt="" coords="1861,177,2011,203"/>
+<area shape="rect" id="node29" href="$_type_attribute_8h.html" title="souffle/TypeAttribute.h" alt="" coords="2035,177,2205,203"/>
+<area shape="rect" id="node31" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1351,259,1454,285"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ast/analysis/TypeEnvironment.h" name="ast/analysis/TypeEnvironment.h">
+<area shape="rect" id="node2" href="$_sum_type_branches_8cpp.html" title="ast/analysis/SumTypeBranches.cpp" alt="" coords="5,87,256,114"/>
+<area shape="rect" id="node3" href="$_type_8cpp.html" title="ast/analysis/Type.cpp" alt="" coords="281,87,442,114"/>
+<area shape="rect" id="node4" href="$_type_environment_8cpp.html" title="ast/analysis/TypeEnvironment.cpp" alt="" coords="466,87,710,114"/>
+<area shape="rect" id="node5" href="$_a_d_tto_records_8cpp.html" title="ast/transform/ADTtoRecords.cpp" alt="" coords="735,87,967,114"/>
+<area shape="rect" id="node6" href="$_i_o_attributes_8h.html" title="ast/transform/IOAttributes.h" alt="" coords="991,87,1195,114"/>
+<area shape="rect" id="node8" href="$_materialize_aggregation_queries_8cpp.html" title="ast/transform/Materialize\lAggregationQueries.cpp" alt="" coords="1220,80,1407,121"/>
+<area shape="rect" id="node9" href="$_semantic_checker_8cpp.html" title="ast/transform/SemanticChecker.cpp" alt="" coords="1431,87,1686,114"/>
+<area shape="rect" id="node10" href="$_ast_to_ram_translator_8cpp.html" title="ast2ram/AstToRamTranslator.cpp" alt="" coords="1711,87,1945,114"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="main.cpp" alt="" coords="1052,169,1135,196"/>
+</map>

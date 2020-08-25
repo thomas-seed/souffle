@@ -1,0 +1,19 @@
+<map id="ram/ParallelChoice.h" name="ram/ParallelChoice.h">
+<area shape="rect" id="node2" href="$_abstract_parallel_8h.html" title="ram/AbstractParallel.h" alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$_choice_8h.html" title="ram/Choice.h" alt="" coords="2391,80,2499,107"/>
+<area shape="rect" id="node5" href="$_condition_8h.html" title="ram/Condition.h" alt="" coords="2771,386,2897,413"/>
+<area shape="rect" id="node6" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="2466,468,2565,495"/>
+<area shape="rect" id="node22" href="$_operation_8h.html" title="ram/Operation.h" alt="" coords="1959,386,2087,413"/>
+<area shape="rect" id="node24" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="2595,304,2713,331"/>
+<area shape="rect" id="node26" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="3335,468,3511,495"/>
+<area shape="rect" id="node34" href="$_relation_operation_8h.html" title="ram/RelationOperation.h" alt="" coords="1829,155,2010,181"/>
+<area shape="rect" id="node37" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="1151,386,1346,413"/>
+<area shape="rect" id="node4" href="$_abstract_choice_8h.html" title="ram/AbstractChoice.h" alt="" coords="2398,304,2561,331"/>
+<area shape="rect" id="node8" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="2669,617,2815,644"/>
+<area shape="rect" id="node16" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="1456,379,1631,420"/>
+<area shape="rect" id="node7" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="2447,543,2645,569"/>
+<area shape="rect" id="node25" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="3226,386,3335,413"/>
+<area shape="rect" id="node27" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="3075,543,3177,569"/>
+<area shape="rect" id="node35" href="$_tuple_operation_8h.html" title="ram/TupleOperation.h" alt="" coords="1659,229,1822,256"/>
+<area shape="rect" id="node36" href="$_nested_operation_8h.html" title="ram/NestedOperation.h" alt="" coords="1683,304,1857,331"/>
+</map>

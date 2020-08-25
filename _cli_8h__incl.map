@@ -1,0 +1,25 @@
+<map id="include/souffle/profile/Cli.h" name="include/souffle/profile/Cli.h">
+<area shape="rect" id="node2" href="$_string_utils_8h.html" title="souffle/profile/StringUtils.h" alt="" coords="2359,430,2553,457"/>
+<area shape="rect" id="node21" href="$_tui_8h.html" title="souffle/profile/Tui.h" alt="" coords="2717,95,2862,121"/>
+<area shape="rect" id="node3" href="$_cell_interface_8h.html" title="souffle/profile/CellInterface.h" alt="" coords="2316,751,2527,777"/>
+<area shape="rect" id="node6" href="$_row_8h.html" title="souffle/profile/Row.h" alt="" coords="2459,669,2613,695"/>
+<area shape="rect" id="node10" href="$profile_2_table_8h.html" title="souffle/profile/Table.h" alt="" coords="2878,512,3039,539"/>
+<area shape="rect" id="node11" href="$_data_comparator_8h.html" title="souffle/profile/DataComparator.h" alt="" coords="2611,587,2845,613"/>
+<area shape="rect" id="node22" href="$_profile_event_8h.html" title="souffle/ProfileEvent.h" alt="" coords="1019,430,1179,457"/>
+<area shape="rect" id="node35" href="$_html_generator_8h.html" title="souffle/profile/HtmlGenerator.h" alt="" coords="3822,169,4045,196"/>
+<area shape="rect" id="node36" href="$_output_processor_8h.html" title="souffle/profile/OutputProcessor.h" alt="" coords="2673,251,2906,278"/>
+<area shape="rect" id="node46" href="$_reader_8h.html" title="souffle/profile/Reader.h" alt="" coords="1545,341,1716,367"/>
+<area shape="rect" id="node48" href="$_user_input_reader_8h.html" title="souffle/profile/UserInput\lReader.h" alt="" coords="3403,661,3581,703"/>
+<area shape="rect" id="node23" href="$_event_processor_8h.html" title="souffle/EventProcessor.h" alt="" coords="944,512,1125,539"/>
+<area shape="rect" id="node24" href="$_profile_database_8h.html" title="souffle/ProfileDatabase.h" alt="" coords="1230,587,1415,613"/>
+<area shape="rect" id="node25" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="1000,669,1176,695"/>
+<area shape="rect" id="node38" href="$html_css_chartist_8h.html" title="souffle/profile/htmlCssChartist.h" alt="" coords="3606,341,3837,367"/>
+<area shape="rect" id="node39" href="$html_css_style_8h.html" title="souffle/profile/htmlCssStyle.h" alt="" coords="3861,341,4075,367"/>
+<area shape="rect" id="node40" href="$html_js_chartist_min_8h.html" title="souffle/profile/htmlJsChartist\lMin.h" alt="" coords="3899,423,4106,464"/>
+<area shape="rect" id="node41" href="$html_js_chartist_plugin_8h.html" title="souffle/profile/htmlJsChartist\lPlugin.h" alt="" coords="4150,333,4357,375"/>
+<area shape="rect" id="node42" href="$html_js_main_8h.html" title="souffle/profile/htmlJsMain.h" alt="" coords="4206,430,4405,457"/>
+<area shape="rect" id="node43" href="$html_js_table_sort_8h.html" title="souffle/profile/htmlJsTable\lSort.h" alt="" coords="4123,244,4314,285"/>
+<area shape="rect" id="node44" href="$html_js_util_8h.html" title="souffle/profile/htmlJsUtil.h" alt="" coords="4338,251,4529,278"/>
+<area shape="rect" id="node45" href="$html_main_8h.html" title="souffle/profile/htmlMain.h" alt="" coords="4553,251,4741,278"/>
+<area shape="rect" id="node37" href="$_cell_8h.html" title="souffle/profile/Cell.h" alt="" coords="2093,341,2245,367"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ast/BranchInit.h" name="ast/BranchInit.h">
+<area shape="rect" id="node2" href="$_argument_8h.html" title="ast/Argument.h" alt="" coords="177,155,300,181"/>
+<area shape="rect" id="node4" href="$_src_location_8h.html" title="parser/SrcLocation.h" alt="" coords="5,319,160,345"/>
+<area shape="rect" id="node11" href="$ast_2_node_mapper_8h.html" title="ast/NodeMapper.h" alt="" coords="1057,155,1196,181"/>
+<area shape="rect" id="node12" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="847,229,1022,271"/>
+<area shape="rect" id="node21" href="$_term_8h.html" title="ast/Term.h" alt="" coords="772,80,863,107"/>
+<area shape="rect" id="node22" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="1304,80,1480,107"/>
+<area shape="rect" id="node23" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1553,155,1655,181"/>
+<area shape="rect" id="node28" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="628,237,823,263"/>
+<area shape="rect" id="node3" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="359,237,451,263"/>
+</map>

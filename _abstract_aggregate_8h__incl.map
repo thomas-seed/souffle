@@ -1,0 +1,13 @@
+<map id="ram/AbstractAggregate.h" name="ram/AbstractAggregate.h">
+<area shape="rect" id="node2" href="$_aggregate_op_8h.html" title="AggregateOp.h" alt="" coords="772,155,891,181"/>
+<area shape="rect" id="node21" href="$_condition_8h.html" title="ram/Condition.h" alt="" coords="1477,80,1604,107"/>
+<area shape="rect" id="node22" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="1646,155,1745,181"/>
+<area shape="rect" id="node28" href="$_expression_8h.html" title="ram/Expression.h" alt="" coords="1628,80,1763,107"/>
+<area shape="rect" id="node29" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="1024,229,1199,271"/>
+<area shape="rect" id="node3" href="$_ram_types_8h.html" title="souffle/RamTypes.h" alt="" coords="310,237,459,263"/>
+<area shape="rect" id="node9" href="$_type_attribute_8h.html" title="souffle/TypeAttribute.h" alt="" coords="5,237,175,263"/>
+<area shape="rect" id="node10" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="743,237,919,263"/>
+<area shape="rect" id="node11" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="780,319,883,345"/>
+<area shape="rect" id="node23" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="1679,237,1877,263"/>
+<area shape="rect" id="node24" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="1799,319,1944,345"/>
+</map>

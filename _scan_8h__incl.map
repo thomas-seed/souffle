@@ -1,0 +1,15 @@
+<map id="ram/Scan.h" name="ram/Scan.h">
+<area shape="rect" id="node2" href="$_operation_8h.html" title="ram/Operation.h" alt="" coords="1133,304,1261,331"/>
+<area shape="rect" id="node14" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="784,304,901,331"/>
+<area shape="rect" id="node16" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="219,461,395,487"/>
+<area shape="rect" id="node30" href="$_relation_operation_8h.html" title="ram/RelationOperation.h" alt="" coords="1163,80,1344,107"/>
+<area shape="rect" id="node33" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="2139,461,2333,487"/>
+<area shape="rect" id="node3" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="1127,379,1225,405"/>
+<area shape="rect" id="node4" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="1077,461,1275,487"/>
+<area shape="rect" id="node5" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="1795,543,1941,569"/>
+<area shape="rect" id="node15" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="387,379,496,405"/>
+<area shape="rect" id="node24" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="1755,453,1930,495"/>
+<area shape="rect" id="node17" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="375,543,478,569"/>
+<area shape="rect" id="node31" href="$_tuple_operation_8h.html" title="ram/TupleOperation.h" alt="" coords="1231,155,1393,181"/>
+<area shape="rect" id="node32" href="$_nested_operation_8h.html" title="ram/NestedOperation.h" alt="" coords="1478,229,1653,256"/>
+</map>

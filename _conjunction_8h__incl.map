@@ -1,0 +1,9 @@
+<map id="ram/Conjunction.h" name="ram/Conjunction.h">
+<area shape="rect" id="node2" href="$_condition_8h.html" title="ram/Condition.h" alt="" coords="539,80,666,107"/>
+<area shape="rect" id="node3" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="556,155,655,181"/>
+<area shape="rect" id="node5" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="94,319,239,345"/>
+<area shape="rect" id="node13" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="793,229,967,271"/>
+<area shape="rect" id="node19" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="1311,155,1487,181"/>
+<area shape="rect" id="node4" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="321,237,519,263"/>
+<area shape="rect" id="node20" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1462,237,1565,263"/>
+</map>

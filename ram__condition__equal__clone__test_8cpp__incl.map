@@ -1,0 +1,32 @@
+<map id="tests/ram_condition_equal_clone_test.cpp" name="tests/ram_condition_equal_clone_test.cpp">
+<area shape="rect" id="node2" href="$test_8h.html" title="tests/test.h" alt="" coords="1059,244,1153,271"/>
+<area shape="rect" id="node30" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="5413,326,5522,353"/>
+<area shape="rect" id="node31" href="$_conjunction_8h.html" title="ram/Conjunction.h" alt="" coords="4329,244,4470,271"/>
+<area shape="rect" id="node35" href="$ram_2_constraint_8h.html" title="ram/Constraint.h" alt="" coords="3525,244,3655,271"/>
+<area shape="rect" id="node36" href="$_expression_8h.html" title="ram/Expression.h" alt="" coords="3315,326,3449,353"/>
+<area shape="rect" id="node37" href="$_binary_constraint_ops_8h.html" title="souffle/BinaryConstraint\lOps.h" alt="" coords="1282,319,1461,360"/>
+<area shape="rect" id="node39" href="$_emptiness_check_8h.html" title="ram/EmptinessCheck.h" alt="" coords="4556,169,4728,196"/>
+<area shape="rect" id="node40" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="5170,244,5287,271"/>
+<area shape="rect" id="node42" href="$_existence_check_8h.html" title="ram/ExistenceCheck.h" alt="" coords="4793,95,4960,121"/>
+<area shape="rect" id="node44" href="$_false_8h.html" title="ram/False.h" alt="" coords="5312,244,5409,271"/>
+<area shape="rect" id="node45" href="$ram_2_negation_8h.html" title="ram/Negation.h" alt="" coords="3930,244,4053,271"/>
+<area shape="rect" id="node46" href="$_provenance_existence_check_8h.html" title="ram/ProvenanceExistenceCheck.h" alt="" coords="3771,95,4014,121"/>
+<area shape="rect" id="node47" href="$_signed_constant_8h.html" title="ram/SignedConstant.h" alt="" coords="2144,169,2311,196"/>
+<area shape="rect" id="node49" href="$_true_8h.html" title="ram/True.h" alt="" coords="5434,244,5525,271"/>
+<area shape="rect" id="node50" href="$_tuple_element_8h.html" title="ram/TupleElement.h" alt="" coords="2987,244,3139,271"/>
+<area shape="rect" id="node3" href="$_cache_util_8h.html" title="souffle/utility/CacheUtil.h" alt="" coords="271,326,458,353"/>
+<area shape="rect" id="node6" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="2693,319,2868,360"/>
+<area shape="rect" id="node15" href="$_file_util_8h.html" title="souffle/utility/FileUtil.h" alt="" coords="1536,326,1705,353"/>
+<area shape="rect" id="node19" href="$_functional_util_8h.html" title="souffle/utility/Functional\lUtil.h" alt="" coords="1079,319,1258,360"/>
+<area shape="rect" id="node20" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="3855,408,4031,435"/>
+<area shape="rect" id="node23" href="$_parallel_util_8h.html" title="souffle/utility/Parallel\lUtil.h" alt="" coords="845,319,1005,360"/>
+<area shape="rect" id="node24" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="2893,326,3087,353"/>
+<area shape="rect" id="node26" href="$_string_util_8h.html" title="souffle/utility/StringUtil.h" alt="" coords="584,326,769,353"/>
+<area shape="rect" id="node27" href="$_ram_types_8h.html" title="../RamTypes.h" alt="" coords="439,408,552,435"/>
+<area shape="rect" id="node32" href="$_condition_8h.html" title="ram/Condition.h" alt="" coords="4133,326,4260,353"/>
+<area shape="rect" id="node33" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="3489,408,3587,435"/>
+<area shape="rect" id="node34" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="4691,326,4836,353"/>
+<area shape="rect" id="node38" href="$_type_attribute_8h.html" title="souffle/TypeAttribute.h" alt="" coords="1164,408,1333,435"/>
+<area shape="rect" id="node43" href="$_abstract_existence_check_8h.html" title="ram/AbstractExistenceCheck.h" alt="" coords="3930,169,4151,196"/>
+<area shape="rect" id="node48" href="$ram_2_constant_8h.html" title="ram/Constant.h" alt="" coords="1938,244,2061,271"/>
+</map>

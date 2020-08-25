@@ -1,0 +1,21 @@
+<map id="ram/transform/IfConversion.h" name="ram/transform/IfConversion.h">
+<area shape="rect" id="node2" href="$ram_2_translation_unit_8h.html" title="ram/TranslationUnit.h" alt="" coords="974,80,1137,107"/>
+<area shape="rect" id="node48" href="$ram_2transform_2_transformer_8h.html" title="ram/transform/Transformer.h" alt="" coords="5,80,215,107"/>
+<area shape="rect" id="node3" href="$_global_8h.html" title="Global.h" alt="" coords="443,386,519,413"/>
+<area shape="rect" id="node8" href="$ram_2_program_8h.html" title="ram/Program.h" alt="" coords="2751,155,2869,181"/>
+<area shape="rect" id="node32" href="$ram_2analysis_2_analysis_8h.html" title="ram/analysis/Analysis.h" alt="" coords="443,468,620,495"/>
+<area shape="rect" id="node33" href="$_debug_report_8h.html" title="reports/DebugReport.h" alt="" coords="3530,386,3698,413"/>
+<area shape="rect" id="node36" href="$_symbol_table_8h.html" title="souffle/SymbolTable.h" alt="" coords="1243,304,1409,331"/>
+<area shape="rect" id="node9" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="3106,386,3303,413"/>
+<area shape="rect" id="node10" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="3716,468,3861,495"/>
+<area shape="rect" id="node16" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="2867,304,2966,331"/>
+<area shape="rect" id="node17" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="2554,229,2671,256"/>
+<area shape="rect" id="node19" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="1895,386,2071,413"/>
+<area shape="rect" id="node26" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="2299,379,2473,420"/>
+<area shape="rect" id="node31" href="$_statement_8h.html" title="ram/Statement.h" alt="" coords="3323,229,3455,256"/>
+<area shape="rect" id="node18" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="2415,304,2525,331"/>
+<area shape="rect" id="node20" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2039,468,2141,495"/>
+<area shape="rect" id="node37" href="$_ram_types_8h.html" title="souffle/RamTypes.h" alt="" coords="727,386,877,413"/>
+<area shape="rect" id="node41" href="$_parallel_util_8h.html" title="souffle/utility/Parallel\lUtil.h" alt="" coords="543,379,703,420"/>
+<area shape="rect" id="node43" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="1525,386,1719,413"/>
+</map>

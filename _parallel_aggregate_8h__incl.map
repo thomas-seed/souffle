@@ -1,0 +1,27 @@
+<map id="ram/ParallelAggregate.h" name="ram/ParallelAggregate.h">
+<area shape="rect" id="node2" href="$_aggregate_op_8h.html" title="AggregateOp.h" alt="" coords="527,386,645,413"/>
+<area shape="rect" id="node10" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="789,468,965,495"/>
+<area shape="rect" id="node21" href="$_abstract_aggregate_8h.html" title="ram/AbstractAggregate.h" alt="" coords="2087,304,2272,331"/>
+<area shape="rect" id="node22" href="$_condition_8h.html" title="ram/Condition.h" alt="" coords="1532,386,1659,413"/>
+<area shape="rect" id="node23" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="2050,468,2149,495"/>
+<area shape="rect" id="node29" href="$_expression_8h.html" title="ram/Expression.h" alt="" coords="1785,386,1920,413"/>
+<area shape="rect" id="node35" href="$_abstract_parallel_8h.html" title="ram/AbstractParallel.h" alt="" coords="2940,80,3107,107"/>
+<area shape="rect" id="node36" href="$_aggregate_8h.html" title="ram/Aggregate.h" alt="" coords="2583,80,2714,107"/>
+<area shape="rect" id="node37" href="$_operation_8h.html" title="ram/Operation.h" alt="" coords="2939,386,3067,413"/>
+<area shape="rect" id="node38" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="3678,304,3795,331"/>
+<area shape="rect" id="node41" href="$_relation_operation_8h.html" title="ram/RelationOperation.h" alt="" coords="3054,155,3235,181"/>
+<area shape="rect" id="node44" href="$ram_2_utils_8h.html" title="ram/Utils.h" alt="" coords="1420,229,1515,256"/>
+<area shape="rect" id="node49" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="3849,386,4043,413"/>
+<area shape="rect" id="node3" href="$_ram_types_8h.html" title="souffle/RamTypes.h" alt="" coords="303,468,453,495"/>
+<area shape="rect" id="node9" href="$_type_attribute_8h.html" title="souffle/TypeAttribute.h" alt="" coords="5,543,175,569"/>
+<area shape="rect" id="node11" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="717,543,820,569"/>
+<area shape="rect" id="node30" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="3649,379,3824,420"/>
+<area shape="rect" id="node24" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="1854,543,2051,569"/>
+<area shape="rect" id="node25" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="1532,617,1677,644"/>
+<area shape="rect" id="node39" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="2401,386,2510,413"/>
+<area shape="rect" id="node42" href="$_tuple_operation_8h.html" title="ram/TupleOperation.h" alt="" coords="3223,229,3386,256"/>
+<area shape="rect" id="node43" href="$_nested_operation_8h.html" title="ram/NestedOperation.h" alt="" coords="3271,304,3445,331"/>
+<area shape="rect" id="node45" href="$_conjunction_8h.html" title="ram/Conjunction.h" alt="" coords="1099,304,1241,331"/>
+<area shape="rect" id="node46" href="$_true_8h.html" title="ram/True.h" alt="" coords="1606,304,1697,331"/>
+<area shape="rect" id="node47" href="$_undef_value_8h.html" title="ram/UndefValue.h" alt="" coords="1721,304,1859,331"/>
+</map>
